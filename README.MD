@@ -1,6 +1,6 @@
 # OCTO
 
-> octo is a lightweight framework written in php 7.4
+> octo is a lightweight framework written in PHP
 
 - will be used for building API's
 - will use authentication
