@@ -10,4 +10,4 @@ function index($data) {
     return json_encode($data);
 }
 
-index($data);
+echo index($data);
