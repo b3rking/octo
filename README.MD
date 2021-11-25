@@ -1,7 +1,7 @@
 # OCTO
 
-> octo is a lightweight framework written in PHP
+## octo is a css library working with pre-built classes to give styles to your documents
 
-- will be used for building API's
-- will use authentication
-- rest based
+- utilities based design
+- class based design
+- components based design
